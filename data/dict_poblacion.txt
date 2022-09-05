@@ -1,0 +1,33 @@
+CVEGEO.num	CVEGEO	CVE_ENT	NOMGEO	NOM_ENT	POBTOT
+1	01	01	Aguascalientes	Aguascalientes	1425607
+2	02	02	Baja California	Baja California	3769020
+3	03	03	Baja California Sur	Baja California Sur	798447
+4	04	04	Campeche	Campeche	928363
+5	05	05	Coahuila de Zaragoza	Coahuila de Zaragoza	3146771
+6	06	06	Colima	Colima	731391
+7	07	07	Chiapas	Chiapas	5543828
+8	08	08	Chihuahua	Chihuahua	3741869
+9	09	09	Ciudad de México	Ciudad de México	9209944
+10	10	10	Durango	Durango	1832650
+11	11	11	Guanajuato	Guanajuato	6166934
+12	12	12	Guerrero	Guerrero	3540685
+13	13	13	Hidalgo	Hidalgo	3082841
+14	14	14	Jalisco	Jalisco	8348151
+15	15	15	México	México	16992418
+16	16	16	Michoacán de Ocampo	Michoacán de Ocampo	4748846
+17	17	17	Morelos	Morelos	1971520
+18	18	18	Nayarit	Nayarit	1235456
+19	19	19	Nuevo León	Nuevo León	5784442
+20	20	20	Oaxaca	Oaxaca	4132148
+21	21	21	Puebla	Puebla	6583278
+22	22	22	Querétaro	Querétaro	2368467
+23	23	23	Quintana Roo	Quintana Roo	1857985
+24	24	24	San Luis Potosí	San Luis Potosí	2822255
+25	25	25	Sinaloa	Sinaloa	3026943
+26	26	26	Sonora	Sonora	2944840
+27	27	27	Tabasco	Tabasco	2402598
+28	28	28	Tamaulipas	Tamaulipas	3527735
+29	29	29	Tlaxcala	Tlaxcala	1342977
+30	30	30	Veracruz de Ignacio de la Llave	Veracruz de Ignacio de la Llave	8062579
+31	31	31	Yucatán	Yucatán	2320898
+32	32	32	Zacatecas	Zacatecas	1622138

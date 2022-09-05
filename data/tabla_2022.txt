@@ -1,0 +1,36 @@
+no|ooad|ene
+1 | Aguascalientes| 20999607
+2 | Baja California| 71073075
+3 | Baja California Sur| 21261535
+4 | Campeche| 7234329
+5 | Coahuila| 50897245
+6 | Colima| 9804419
+7 | Chiapas| 43019078
+8 | Chihuahua| 19199974
+10 |Durango| 12559526
+11 |Guanajuato| 46514366
+12 |Guerrero| 11748686
+13 |Hidalgo| 17537848
+14 |Jalisco| 91694749
+15 |México Oriente| 86252900
+16 |México Poniente| 41706552
+17 |Michoacán| 17847049
+18 |Morelos| 15817139
+19 |Nayarit| 10802945
+20 |Nuevo León| 101458059
+21 |Oaxaca| 9971617
+22 |Puebla| 22116168
+23 |Querétaro| 47223606
+24 |Quintana Roo| 33856585
+25 |San Luis Potosi| 38149970
+26 |Sinaloa| 29033304
+27 |Sonora| 27769974
+28 |Tabasco| 12746240
+29 |Tamaulipas| 51346631
+30 |Tlaxcala| 4523771
+31 |Veracruz Norte| 16246929
+32 |Veracruz Sur| 11299953
+33 |Yucatán| 27686629
+34 |Zacatecas| 18105737
+35 |DF Norte| 56995341
+36 |DF Sur| 87622535

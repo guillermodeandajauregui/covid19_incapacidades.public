@@ -1,0 +1,737 @@
+ENT_NOM	TOT_CASOS	year	month
+Aguascalientes	930150	2020	3
+Baja California	2302421	2020	3
+Baja California Sur	511732	2020	3
+Campeche	386144	2020	3
+Chiapas	930065	2020	3
+Chihuahua	2478638	2020	3
+Ciudad de México	6293443	2020	3
+Coahuila de Zaragoza	2377654	2020	3
+Colima	450517	2020	3
+Durango	896684	2020	3
+Guanajuato	2783624	2020	3
+Guerrero	763778	2020	3
+Hidalgo	923643	2020	3
+Jalisco	4939833	2020	3
+México	7187874	2020	3
+Michoacán de Ocampo	1599161	2020	3
+Morelos	819121	2020	3
+Nayarit	565328	2020	3
+Nuevo León	4153965	2020	3
+Oaxaca	784050	2020	3
+Puebla	2047495	2020	3
+Querétaro	1403570	2020	3
+Quintana Roo	1000141	2020	3
+San Luis Potosí	1323614	2020	3
+Sinaloa	1941121	2020	3
+Sonora	1836460	2020	3
+Tabasco	774302	2020	3
+Tamaulipas	2081571	2020	3
+Tlaxcala	474256	2020	3
+Veracruz de Ignacio de la Llave	2894609	2020	3
+Yucatán	1167297	2020	3
+Zacatecas	658587	2020	3
+Aguascalientes	920305	2020	4
+Baja California	2276372	2020	4
+Baja California Sur	501270	2020	4
+Campeche	381948	2020	4
+Chiapas	903527	2020	4
+Chihuahua	2457401	2020	4
+Ciudad de México	6172868	2020	4
+Coahuila de Zaragoza	2345618	2020	4
+Colima	447516	2020	4
+Durango	888100	2020	4
+Guanajuato	2749008	2020	4
+Guerrero	736696	2020	4
+Hidalgo	911165	2020	4
+Jalisco	4896270	2020	4
+México	7012326	2020	4
+Michoacán de Ocampo	1594456	2020	4
+Morelos	811597	2020	4
+Nayarit	557747	2020	4
+Nuevo León	4102220	2020	4
+Oaxaca	775520	2020	4
+Puebla	2026348	2020	4
+Querétaro	1383735	2020	4
+Quintana Roo	963087	2020	4
+San Luis Potosí	1308196	2020	4
+Sinaloa	1916901	2020	4
+Sonora	1824270	2020	4
+Tabasco	758348	2020	4
+Tamaulipas	2060204	2020	4
+Tlaxcala	469762	2020	4
+Veracruz de Ignacio de la Llave	2859002	2020	4
+Yucatán	1150322	2020	4
+Zacatecas	653608	2020	4
+Aguascalientes	907482	2020	5
+Baja California	2247246	2020	5
+Baja California Sur	480306	2020	5
+Campeche	378004	2020	5
+Chiapas	906343	2020	5
+Chihuahua	2421086	2020	5
+Ciudad de México	6111935	2020	5
+Coahuila de Zaragoza	2305385	2020	5
+Colima	440581	2020	5
+Durango	874867	2020	5
+Guanajuato	2699661	2020	5
+Guerrero	737567	2020	5
+Hidalgo	898753	2020	5
+Jalisco	4824174	2020	5
+México	6981640	2020	5
+Michoacán de Ocampo	1571810	2020	5
+Morelos	800600	2020	5
+Nayarit	542092	2020	5
+Nuevo León	4034061	2020	5
+Oaxaca	767575	2020	5
+Puebla	1996999	2020	5
+Querétaro	1362153	2020	5
+Quintana Roo	892573	2020	5
+San Luis Potosí	1289847	2020	5
+Sinaloa	1868580	2020	5
+Sonora	1793907	2020	5
+Tabasco	754899	2020	5
+Tamaulipas	2026248	2020	5
+Tlaxcala	464945	2020	5
+Veracruz de Ignacio de la Llave	2809186	2020	5
+Yucatán	1128790	2020	5
+Zacatecas	645604	2020	5
+Aguascalientes	906133	2020	6
+Baja California	2257093	2020	6
+Baja California Sur	481457	2020	6
+Campeche	372436	2020	6
+Chiapas	881460	2020	6
+Chihuahua	2427117	2020	6
+Ciudad de México	5993250	2020	6
+Coahuila de Zaragoza	2299932	2020	6
+Colima	437966	2020	6
+Durango	873646	2020	6
+Guanajuato	2687066	2020	6
+Guerrero	723821	2020	6
+Hidalgo	892917	2020	6
+Jalisco	4806485	2020	6
+México	6951977	2020	6
+Michoacán de Ocampo	1559346	2020	6
+Morelos	789601	2020	6
+Nayarit	538881	2020	6
+Nuevo León	4033845	2020	6
+Oaxaca	758710	2020	6
+Puebla	1981149	2020	6
+Querétaro	1357796	2020	6
+Quintana Roo	880096	2020	6
+San Luis Potosí	1284344	2020	6
+Sinaloa	1843419	2020	6
+Sonora	1791265	2020	6
+Tabasco	724674	2020	6
+Tamaulipas	2021258	2020	6
+Tlaxcala	460630	2020	6
+Veracruz de Ignacio de la Llave	2770887	2020	6
+Yucatán	1124783	2020	6
+Zacatecas	642939	2020	6
+Aguascalientes	905199	2020	7
+Baja California	2263653	2020	7
+Baja California Sur	480472	2020	7
+Campeche	370134	2020	7
+Chiapas	878560	2020	7
+Chihuahua	2446593	2020	7
+Ciudad de México	5980107	2020	7
+Coahuila de Zaragoza	2304039	2020	7
+Colima	437462	2020	7
+Durango	872665	2020	7
+Guanajuato	2682865	2020	7
+Guerrero	725244	2020	7
+Hidalgo	890139	2020	7
+Jalisco	4795239	2020	7
+México	6939784	2020	7
+Michoacán de Ocampo	1552363	2020	7
+Morelos	783999	2020	7
+Nayarit	538636	2020	7
+Nuevo León	3962840	2020	7
+Oaxaca	749622	2020	7
+Puebla	1977160	2020	7
+Querétaro	1357297	2020	7
+Quintana Roo	877930	2020	7
+San Luis Potosí	1284500	2020	7
+Sinaloa	1839921	2020	7
+Sonora	1792679	2020	7
+Tabasco	724893	2020	7
+Tamaulipas	2022866	2020	7
+Tlaxcala	459199	2020	7
+Veracruz de Ignacio de la Llave	2755791	2020	7
+Yucatán	1114163	2020	7
+Zacatecas	643290	2020	7
+Aguascalientes	901901	2020	8
+Baja California	2261288	2020	8
+Baja California Sur	477918	2020	8
+Campeche	365202	2020	8
+Chiapas	861509	2020	8
+Chihuahua	2439649	2020	8
+Ciudad de México	5939552	2020	8
+Coahuila de Zaragoza	2301075	2020	8
+Colima	436086	2020	8
+Durango	870874	2020	8
+Guanajuato	2671072	2020	8
+Guerrero	719629	2020	8
+Hidalgo	879638	2020	8
+Jalisco	4781450	2020	8
+México	6914967	2020	8
+Michoacán de Ocampo	1542303	2020	8
+Morelos	775369	2020	8
+Nayarit	531352	2020	8
+Nuevo León	3971119	2020	8
+Oaxaca	737572	2020	8
+Puebla	1954844	2020	8
+Querétaro	1355055	2020	8
+Quintana Roo	865420	2020	8
+San Luis Potosí	1278867	2020	8
+Sinaloa	1833477	2020	8
+Sonora	1784796	2020	8
+Tabasco	706915	2020	8
+Tamaulipas	2014221	2020	8
+Tlaxcala	453317	2020	8
+Veracruz de Ignacio de la Llave	2734304	2020	8
+Yucatán	1108085	2020	8
+Zacatecas	640894	2020	8
+Aguascalientes	905836	2020	9
+Baja California	2274305	2020	9
+Baja California Sur	479929	2020	9
+Campeche	362721	2020	9
+Chiapas	863572	2020	9
+Chihuahua	2441077	2020	9
+Ciudad de México	5945293	2020	9
+Coahuila de Zaragoza	2304223	2020	9
+Colima	436188	2020	9
+Durango	865840	2020	9
+Guanajuato	2675310	2020	9
+Guerrero	718142	2020	9
+Hidalgo	879460	2020	9
+Jalisco	4799730	2020	9
+México	6921418	2020	9
+Michoacán de Ocampo	1543264	2020	9
+Morelos	775444	2020	9
+Nayarit	531677	2020	9
+Nuevo León	3987598	2020	9
+Oaxaca	729737	2020	9
+Puebla	1945969	2020	9
+Querétaro	1365611	2020	9
+Quintana Roo	865732	2020	9
+San Luis Potosí	1282975	2020	9
+Sinaloa	1846116	2020	9
+Sonora	1789967	2020	9
+Tabasco	703154	2020	9
+Tamaulipas	2014234	2020	9
+Tlaxcala	448520	2020	9
+Veracruz de Ignacio de la Llave	2732042	2020	9
+Yucatán	1107063	2020	9
+Zacatecas	632534	2020	9
+Aguascalientes	914843	2020	10
+Baja California	2290131	2020	10
+Baja California Sur	487134	2020	10
+Campeche	363825	2020	10
+Chiapas	880608	2020	10
+Chihuahua	2459913	2020	10
+Ciudad de México	5984522	2020	10
+Coahuila de Zaragoza	2314126	2020	10
+Colima	440343	2020	10
+Durango	872242	2020	10
+Guanajuato	2691141	2020	10
+Guerrero	722288	2020	10
+Hidalgo	891257	2020	10
+Jalisco	4828324	2020	10
+México	6953674	2020	10
+Michoacán de Ocampo	1559698	2020	10
+Morelos	781268	2020	10
+Nayarit	539796	2020	10
+Nuevo León	4007780	2020	10
+Oaxaca	741097	2020	10
+Puebla	1963728	2020	10
+Querétaro	1378415	2020	10
+Quintana Roo	874224	2020	10
+San Luis Potosí	1283236	2020	10
+Sinaloa	1865004	2020	10
+Sonora	1799898	2020	10
+Tabasco	711312	2020	10
+Tamaulipas	2018206	2020	10
+Tlaxcala	456612	2020	10
+Veracruz de Ignacio de la Llave	2750261	2020	10
+Yucatán	1106092	2020	10
+Zacatecas	636768	2020	10
+Aguascalientes	911026	2020	11
+Baja California	2277869	2020	11
+Baja California Sur	490110	2020	11
+Campeche	362961	2020	11
+Chiapas	885793	2020	11
+Chihuahua	2461140	2020	11
+Ciudad de México	5990756	2020	11
+Coahuila de Zaragoza	2307176	2020	11
+Colima	440187	2020	11
+Durango	871736	2020	11
+Guanajuato	2672510	2020	11
+Guerrero	727450	2020	11
+Hidalgo	891764	2020	11
+Jalisco	4824554	2020	11
+México	6931828	2020	11
+Michoacán de Ocampo	1558042	2020	11
+Morelos	784515	2020	11
+Nayarit	541071	2020	11
+Nuevo León	4000265	2020	11
+Oaxaca	748185	2020	11
+Puebla	1964936	2020	11
+Querétaro	1374504	2020	11
+Quintana Roo	883996	2020	11
+San Luis Potosí	1283286	2020	11
+Sinaloa	1865087	2020	11
+Sonora	1791945	2020	11
+Tabasco	708501	2020	11
+Tamaulipas	2010943	2020	11
+Tlaxcala	458571	2020	11
+Veracruz de Ignacio de la Llave	2763799	2020	11
+Yucatán	1107134	2020	11
+Zacatecas	638559	2020	11
+Aguascalientes	902798	2020	12
+Baja California	2249750	2020	12
+Baja California Sur	482641	2020	12
+Campeche	360177	2020	12
+Chiapas	881754	2020	12
+Chihuahua	2434626	2020	12
+Ciudad de México	5940071	2020	12
+Coahuila de Zaragoza	2281979	2020	12
+Colima	438331	2020	12
+Durango	861038	2020	12
+Guanajuato	2644915	2020	12
+Guerrero	725876	2020	12
+Hidalgo	883727	2020	12
+Jalisco	4781092	2020	12
+México	6868960	2020	12
+Michoacán de Ocampo	1553413	2020	12
+Morelos	783235	2020	12
+Nayarit	539919	2020	12
+Nuevo León	3956456	2020	12
+Oaxaca	745704	2020	12
+Puebla	1953174	2020	12
+Querétaro	1364710	2020	12
+Quintana Roo	882617	2020	12
+San Luis Potosí	1273167	2020	12
+Sinaloa	1869073	2020	12
+Sonora	1769276	2020	12
+Tabasco	706597	2020	12
+Tamaulipas	1987907	2020	12
+Tlaxcala	455239	2020	12
+Veracruz de Ignacio de la Llave	2758837	2020	12
+Yucatán	1100769	2020	12
+Zacatecas	636046	2020	12
+Aguascalientes	913242	2021	1
+Baja California	2293453	2021	1
+Baja California Sur	489341	2021	1
+Campeche	366857	2021	1
+Chiapas	887773	2021	1
+Chihuahua	2474211	2021	1
+Ciudad de México	5967313	2021	1
+Coahuila de Zaragoza	2312414	2021	1
+Colima	439309	2021	1
+Durango	874702	2021	1
+Guanajuato	2681319	2021	1
+Guerrero	726454	2021	1
+Hidalgo	894518	2021	1
+Jalisco	4823840	2021	1
+México	6931039	2021	1
+Michoacán de Ocampo	1563704	2021	1
+Morelos	788217	2021	1
+Nayarit	547791	2021	1
+Nuevo León	4008448	2021	1
+Oaxaca	751077	2021	1
+Puebla	1967564	2021	1
+Querétaro	1384414	2021	1
+Quintana Roo	894787	2021	1
+San Luis Potosí	1288998	2021	1
+Sinaloa	1896660	2021	1
+Sonora	1793819	2021	1
+Tabasco	712672	2021	1
+Tamaulipas	2008752	2021	1
+Tlaxcala	462524	2021	1
+Veracruz de Ignacio de la Llave	2782818	2021	1
+Yucatán	1111411	2021	1
+Zacatecas	641348	2021	1
+Aguascalientes	918684	2021	2
+Baja California	2301958	2021	2
+Baja California Sur	490098	2021	2
+Campeche	369443	2021	2
+Chiapas	891354	2021	2
+Chihuahua	2467858	2021	2
+Ciudad de México	5986583	2021	2
+Coahuila de Zaragoza	2313591	2021	2
+Colima	442359	2021	2
+Durango	874769	2021	2
+Guanajuato	2691844	2021	2
+Guerrero	729008	2021	2
+Hidalgo	898537	2021	2
+Jalisco	4842504	2021	2
+México	6941034	2021	2
+Michoacán de Ocampo	1570226	2021	2
+Morelos	791979	2021	2
+Nayarit	549235	2021	2
+Nuevo León	4017339	2021	2
+Oaxaca	752709	2021	2
+Puebla	1975009	2021	2
+Querétaro	1392779	2021	2
+Quintana Roo	899365	2021	2
+San Luis Potosí	1293922	2021	2
+Sinaloa	1906933	2021	2
+Sonora	1803302	2021	2
+Tabasco	716806	2021	2
+Tamaulipas	2012537	2021	2
+Tlaxcala	466284	2021	2
+Veracruz de Ignacio de la Llave	2786418	2021	2
+Yucatán	1117292	2021	2
+Zacatecas	644033	2021	2
+Aguascalientes	919618	2021	3
+Baja California	2305551	2021	3
+Baja California Sur	492993	2021	3
+Campeche	370781	2021	3
+Chiapas	896212	2021	3
+Chihuahua	2470402	2021	3
+Ciudad de México	5985692	2021	3
+Coahuila de Zaragoza	2313434	2021	3
+Colima	444428	2021	3
+Durango	872920	2021	3
+Guanajuato	2693012	2021	3
+Guerrero	734584	2021	3
+Hidalgo	899207	2021	3
+Jalisco	4864091	2021	3
+México	6933889	2021	3
+Michoacán de Ocampo	1570305	2021	3
+Morelos	792748	2021	3
+Nayarit	547922	2021	3
+Nuevo León	4030139	2021	3
+Oaxaca	753375	2021	3
+Puebla	1985692	2021	3
+Querétaro	1396598	2021	3
+Quintana Roo	915925	2021	3
+San Luis Potosí	1295159	2021	3
+Sinaloa	1912310	2021	3
+Sonora	1808149	2021	3
+Tabasco	722457	2021	3
+Tamaulipas	2015816	2021	3
+Tlaxcala	467679	2021	3
+Veracruz de Ignacio de la Llave	2785524	2021	3
+Yucatán	1121508	2021	3
+Zacatecas	645929	2021	3
+Aguascalientes	918008	2021	4
+Baja California	2303041	2021	4
+Baja California Sur	493066	2021	4
+Campeche	370210	2021	4
+Chiapas	897891	2021	4
+Chihuahua	2471663	2021	4
+Ciudad de México	5959723	2021	4
+Coahuila de Zaragoza	2313200	2021	4
+Colima	443648	2021	4
+Durango	872935	2021	4
+Guanajuato	2689363	2021	4
+Guerrero	731287	2021	4
+Hidalgo	899194	2021	4
+Jalisco	4856433	2021	4
+México	6920946	2021	4
+Michoacán de Ocampo	1563963	2021	4
+Morelos	790974	2021	4
+Nayarit	549338	2021	4
+Nuevo León	4029220	2021	4
+Oaxaca	749000	2021	4
+Puebla	1979763	2021	4
+Querétaro	1395890	2021	4
+Quintana Roo	921053	2021	4
+San Luis Potosí	1290952	2021	4
+Sinaloa	1905390	2021	4
+Sonora	1801203	2021	4
+Tabasco	721620	2021	4
+Tamaulipas	2011916	2021	4
+Tlaxcala	466628	2021	4
+Veracruz de Ignacio de la Llave	2778230	2021	4
+Yucatán	1122835	2021	4
+Zacatecas	646444	2021	4
+Aguascalientes	919552	2021	5
+Baja California	2312850	2021	5
+Baja California Sur	497696	2021	5
+Campeche	369718	2021	5
+Chiapas	894207	2021	5
+Chihuahua	2476259	2021	5
+Ciudad de México	5944754	2021	5
+Coahuila de Zaragoza	2318866	2021	5
+Colima	443611	2021	5
+Durango	874658	2021	5
+Guanajuato	2692603	2021	5
+Guerrero	730815	2021	5
+Hidalgo	901886	2021	5
+Jalisco	4870624	2021	5
+México	6941953	2021	5
+Michoacán de Ocampo	1561025	2021	5
+Morelos	789036	2021	5
+Nayarit	551983	2021	5
+Nuevo León	4043158	2021	5
+Oaxaca	745466	2021	5
+Puebla	1984942	2021	5
+Querétaro	1398960	2021	5
+Quintana Roo	934475	2021	5
+San Luis Potosí	1289812	2021	5
+Sinaloa	1892581	2021	5
+Sonora	1801892	2021	5
+Tabasco	718145	2021	5
+Tamaulipas	2008229	2021	5
+Tlaxcala	467651	2021	5
+Veracruz de Ignacio de la Llave	2767138	2021	5
+Yucatán	1128684	2021	5
+Zacatecas	647269	2021	5
+Aguascalientes	921614	2021	6
+Baja California	2324372	2021	6
+Baja California Sur	502495	2021	6
+Campeche	371076	2021	6
+Chiapas	899398	2021	6
+Chihuahua	2484333	2021	6
+Ciudad de México	5962471	2021	6
+Coahuila de Zaragoza	2334240	2021	6
+Colima	446029	2021	6
+Durango	877748	2021	6
+Guanajuato	2704865	2021	6
+Guerrero	734084	2021	6
+Hidalgo	905776	2021	6
+Jalisco	4882445	2021	6
+México	6972970	2021	6
+Michoacán de Ocampo	1565049	2021	6
+Morelos	788890	2021	6
+Nayarit	555731	2021	6
+Nuevo León	4065170	2021	6
+Oaxaca	747526	2021	6
+Puebla	1991655	2021	6
+Querétaro	1404833	2021	6
+Quintana Roo	950542	2021	6
+San Luis Potosí	1294888	2021	6
+Sinaloa	1887833	2021	6
+Sonora	1807743	2021	6
+Tabasco	722129	2021	6
+Tamaulipas	2012765	2021	6
+Tlaxcala	469460	2021	6
+Veracruz de Ignacio de la Llave	2763998	2021	6
+Yucatán	1137520	2021	6
+Zacatecas	648398	2021	6
+Aguascalientes	922297	2021	7
+Baja California	2339063	2021	7
+Baja California Sur	506230	2021	7
+Campeche	373426	2021	7
+Chiapas	902671	2021	7
+Chihuahua	2488050	2021	7
+Ciudad de México	6037015	2021	7
+Coahuila de Zaragoza	2347093	2021	7
+Colima	448766	2021	7
+Durango	881878	2021	7
+Guanajuato	2707181	2021	7
+Guerrero	738593	2021	7
+Hidalgo	912485	2021	7
+Jalisco	4875707	2021	7
+México	6996140	2021	7
+Michoacán de Ocampo	1559018	2021	7
+Morelos	788034	2021	7
+Nayarit	558663	2021	7
+Nuevo León	4090027	2021	7
+Oaxaca	737990	2021	7
+Puebla	1998019	2021	7
+Querétaro	1411521	2021	7
+Quintana Roo	967180	2021	7
+San Luis Potosí	1295298	2021	7
+Sinaloa	1901323	2021	7
+Sonora	1810460	2021	7
+Tabasco	728906	2021	7
+Tamaulipas	2020811	2021	7
+Tlaxcala	466952	2021	7
+Veracruz de Ignacio de la Llave	2770217	2021	7
+Yucatán	1141068	2021	7
+Zacatecas	648374	2021	7
+Aguascalientes	926268	2021	8
+Baja California	2343074	2021	8
+Baja California Sur	504702	2021	8
+Campeche	371473	2021	8
+Chiapas	894347	2021	8
+Chihuahua	2474169	2021	8
+Ciudad de México	6063128	2021	8
+Coahuila de Zaragoza	2347918	2021	8
+Colima	450799	2021	8
+Durango	876461	2021	8
+Guanajuato	2709615	2021	8
+Guerrero	732210	2021	8
+Hidalgo	907148	2021	8
+Jalisco	4900631	2021	8
+México	7000217	2021	8
+Michoacán de Ocampo	1551410	2021	8
+Morelos	787588	2021	8
+Nayarit	551275	2021	8
+Nuevo León	4106428	2021	8
+Oaxaca	730574	2021	8
+Puebla	1991803	2021	8
+Querétaro	1412787	2021	8
+Quintana Roo	967707	2021	8
+San Luis Potosí	1292098	2021	8
+Sinaloa	1891542	2021	8
+Sonora	1805643	2021	8
+Tabasco	713867	2021	8
+Tamaulipas	2013567	2021	8
+Tlaxcala	462289	2021	8
+Veracruz de Ignacio de la Llave	2754820	2021	8
+Yucatán	1142755	2021	8
+Zacatecas	645365	2021	8
+Aguascalientes	934812	2021	9
+Baja California	2349789	2021	9
+Baja California Sur	510850	2021	9
+Campeche	373498	2021	9
+Chiapas	906979	2021	9
+Chihuahua	2495023	2021	9
+Ciudad de México	6159113	2021	9
+Coahuila de Zaragoza	2357000	2021	9
+Colima	453966	2021	9
+Durango	880377	2021	9
+Guanajuato	2729128	2021	9
+Guerrero	733228	2021	9
+Hidalgo	919058	2021	9
+Jalisco	4930372	2021	9
+México	7055405	2021	9
+Michoacán de Ocampo	1561438	2021	9
+Morelos	799198	2021	9
+Nayarit	556463	2021	9
+Nuevo León	4131885	2021	9
+Oaxaca	739757	2021	9
+Puebla	1996070	2021	9
+Querétaro	1430662	2021	9
+Quintana Roo	977036	2021	9
+San Luis Potosí	1304284	2021	9
+Sinaloa	1891703	2021	9
+Sonora	1821565	2021	9
+Tabasco	734105	2021	9
+Tamaulipas	2027323	2021	9
+Tlaxcala	472907	2021	9
+Veracruz de Ignacio de la Llave	2779683	2021	9
+Yucatán	1149940	2021	9
+Zacatecas	646164	2021	9
+Aguascalientes	929483	2021	10
+Baja California	2342181	2021	10
+Baja California Sur	517082	2021	10
+Campeche	374911	2021	10
+Chiapas	919216	2021	10
+Chihuahua	2498124	2021	10
+Ciudad de México	6196536	2021	10
+Coahuila de Zaragoza	2358684	2021	10
+Colima	447815	2021	10
+Durango	877056	2021	10
+Guanajuato	2740974	2021	10
+Guerrero	741103	2021	10
+Hidalgo	932752	2021	10
+Jalisco	4931662	2021	10
+México	7103494	2021	10
+Michoacán de Ocampo	1571183	2021	10
+Morelos	803175	2021	10
+Nayarit	560188	2021	10
+Nuevo León	4137681	2021	10
+Oaxaca	754312	2021	10
+Puebla	2023389	2021	10
+Querétaro	1433662	2021	10
+Quintana Roo	984493	2021	10
+San Luis Potosí	1305326	2021	10
+Sinaloa	1927114	2021	10
+Sonora	1831229	2021	10
+Tabasco	746214	2021	10
+Tamaulipas	2029637	2021	10
+Tlaxcala	483463	2021	10
+Veracruz de Ignacio de la Llave	2798982	2021	10
+Yucatán	1158876	2021	10
+Zacatecas	651042	2021	10
+Aguascalientes	930946	2021	11
+Baja California	2359305	2021	11
+Baja California Sur	521620	2021	11
+Campeche	377818	2021	11
+Chiapas	932541	2021	11
+Chihuahua	2508296	2021	11
+Ciudad de México	6244381	2021	11
+Coahuila de Zaragoza	2367043	2021	11
+Colima	450205	2021	11
+Durango	884261	2021	11
+Guanajuato	2751127	2021	11
+Guerrero	750130	2021	11
+Hidalgo	939845	2021	11
+Jalisco	4957244	2021	11
+México	7154891	2021	11
+Michoacán de Ocampo	1579034	2021	11
+Morelos	811491	2021	11
+Nayarit	565615	2021	11
+Nuevo León	4155584	2021	11
+Oaxaca	764380	2021	11
+Puebla	2042577	2021	11
+Querétaro	1439864	2021	11
+Quintana Roo	999330	2021	11
+San Luis Potosí	1312002	2021	11
+Sinaloa	1946096	2021	11
+Sonora	1840008	2021	11
+Tabasco	765553	2021	11
+Tamaulipas	2039573	2021	11
+Tlaxcala	486507	2021	11
+Veracruz de Ignacio de la Llave	2817413	2021	11
+Yucatán	1165034	2021	11
+Zacatecas	640645	2021	11
+Aguascalientes	927449	2021	12
+Baja California	2342649	2021	12
+Baja California Sur	518205	2021	12
+Campeche	378061	2021	12
+Chiapas	932125	2021	12
+Chihuahua	2499968	2021	12
+Ciudad de México	6218252	2021	12
+Coahuila de Zaragoza	2357144	2021	12
+Colima	449597	2021	12
+Durango	879719	2021	12
+Guanajuato	2736967	2021	12
+Guerrero	752264	2021	12
+Hidalgo	937062	2021	12
+Jalisco	4946719	2021	12
+México	7147479	2021	12
+Michoacán de Ocampo	1580070	2021	12
+Morelos	810475	2021	12
+Nayarit	565264	2021	12
+Nuevo León	4138966	2021	12
+Oaxaca	763704	2021	12
+Puebla	2031172	2021	12
+Querétaro	1434298	2021	12
+Quintana Roo	997428	2021	12
+San Luis Potosí	1307030	2021	12
+Sinaloa	1935600	2021	12
+Sonora	1826685	2021	12
+Tabasco	764540	2021	12
+Tamaulipas	2027734	2021	12
+Tlaxcala	483342	2021	12
+Veracruz de Ignacio de la Llave	2824084	2021	12
+Yucatán	1165358	2021	12
+Zacatecas	642155	2021	12
+Aguascalientes	934775	2022	1
+Baja California	2375038	2022	1
+Baja California Sur	522935	2022	1
+Campeche	382219	2022	1
+Chiapas	934275	2022	1
+Chihuahua	2526277	2022	1
+Ciudad de México	6250790	2022	1
+Coahuila de Zaragoza	2380804	2022	1
+Colima	453146	2022	1
+Durango	888917	2022	1
+Guanajuato	2761691	2022	1
+Guerrero	749894	2022	1
+Hidalgo	950509	2022	1
+Jalisco	4977296	2022	1
+México	7195838	2022	1
+Michoacán de Ocampo	1586667	2022	1
+Morelos	815809	2022	1
+Nayarit	573275	2022	1
+Nuevo León	4172148	2022	1
+Oaxaca	768195	2022	1
+Puebla	2044134	2022	1
+Querétaro	1449129	2022	1
+Quintana Roo	1010812	2022	1
+San Luis Potosí	1317006	2022	1
+Sinaloa	1958739	2022	1
+Sonora	1841125	2022	1
+Tabasco	773497	2022	1
+Tamaulipas	2042900	2022	1
+Tlaxcala	487171	2022	1
+Veracruz de Ignacio de la Llave	2838244	2022	1
+Yucatán	1173844	2022	1
+Zacatecas	645601	2022	1
